@@ -1,6 +1,6 @@
 # Rafael Bordignon :orafasb:
 
-[![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bordignon/)](https://www.linkedin.com/in/rafael-bordignon/)
+[![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bordignon/)](https://www.linkedin.com/in/rafael-bordignon-37621117b/)
 
 
 ### Hi there! Welcome to my profile! 👋
