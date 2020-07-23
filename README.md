@@ -3,6 +3,8 @@
 [![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bordignon/)](https://www.linkedin.com/in/rafael-bordignon-37621117b/)
 
 
+[![linkedin Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/orafasb)](www.youtube.com/c/orafasb)
+
 ### Hi there! Welcome to my profile! 👋
 
 <!--
