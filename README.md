@@ -1,4 +1,9 @@
-### Hi there 👋
+# Rafael Bordignon :orafasb:
+
+[![linkedin Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafael-bordignon-37621117b%2F)
+
+
+### Hi there! Welcome to my profile! 👋
 
 <!--
 **orafasb/orafasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
