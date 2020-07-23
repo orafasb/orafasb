@@ -1,7 +1,7 @@
 # Rafael Bordignon :orafasb:
 
 [![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bordignon/)](https://www.linkedin.com/in/rafael-bordignon-37621117b/)
-[![linkedin Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCUQmzj6PHG2JYl2TZxSQHtw?view_as=subscriber)](www.youtube.com/user/orafasb)
+[![linkedin Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCUQmzj6PHG2JYl2TZxSQHtw?view_as=subscriber)](http://www.youtube.com/user/orafasb)
 
 ### Hi there! Welcome to my profile! 👋
 
