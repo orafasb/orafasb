@@ -10,7 +10,7 @@
 - 💜 I love to build computers and especially play games. I take photos and create beautiful solutions for the web.
 - 💻 Languages: HTML, CSS, JavaScript, Node.js, React, Python, Java and looking forward to learn even more!
 - 🚀 Tools: Visual Studio Code, GitHub, Pycharm, Photoshop, Eclipse, Insomnia.
-- 🎓 Academic: 💻 Postgraduate Full Stack Developer/ 🤖 Technology in System Analysis and Development /📸 Technology in Photography / ✈️ Airplane Private Pilot
+- 🎓 Academic: 💻 Postgraduate Front-End Developer/ 🤖 Technology in System Analysis and Development /📸 Technology in Photography / ✈️ Airplane Private Pilot
 
 
 <!--
