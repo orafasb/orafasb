@@ -8,7 +8,7 @@
 
 - 🌎 I'm from Curitiba/Brazil, but world is my home!
 - 💜 I love to build computers and especially play pc games. I take unique photos and create beautiful solutions for the web.
-- 💻 Languages I love: JavaScript, Node, React, Vue, Python and looking forward to learn even more!
+- 💻 Languages I love: JavaScript, Node, React, Vue and looking forward to learn even more!
 - 🎓 Academic: 🤖 Technology in System Analysis and Development /📸 Technology in Photography / ✈️ Airplane Private Pilot
 
 
