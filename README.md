@@ -2,9 +2,8 @@
 
 [![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bordignon/)](https://www.linkedin.com/in/rafael-bordignon-37621117b/)
 
-### Hi there! Welcome! 👋
+### Backend Developer | Passionate about System Architecture
 
-Backend Developer | Passionate about System Architecture
 I transform ideas into robust and scalable solutions.
 With experience and an approach focused on quality, performance, and scalability.
 I’m always striving to evolve and positively impact the technology environment around me.
